@@ -14,3 +14,7 @@ I utilized the code from this repository to create slides for the 3DEM GRS prese
 7. Seaborn and Plotly (interactive) are utilized to generate the plots.
 
 Essentially, by modifying the keywords in the PubMed and bioRxiv notebooks, this technique can be applied to plot abstracts from any other field. Enjoy!
+
+![output_biorxiv_pubmed_all_raw_new](https://github.com/dzyla/40years_of_cryoem/assets/20625527/017af40d-4567-4583-820f-467d7dbbe872)
+
+![output_biorxiv_pubmed](https://github.com/dzyla/40years_of_cryoem/assets/20625527/f3122c1a-0f5f-421c-8bf0-b50f9e78896c)
