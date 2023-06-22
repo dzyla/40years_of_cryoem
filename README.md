@@ -17,6 +17,6 @@ Essentially, by modifying the keywords in the PubMed and bioRxiv notebooks, this
 
 ![output_biorxiv_pubmed_all_raw_new](https://github.com/dzyla/40years_of_cryoem/assets/20625527/017af40d-4567-4583-820f-467d7dbbe872)
 
-![embeddings1](https://github.com/dzyla/40years_of_cryoem/assets/20625527/b769ba5c-321e-4599-ab54-d16a07aa000b)
+![embeddings1](https://github.com/dzyla/40years_of_cryoem/assets/20625527/0a4764ae-9506-4064-b1cc-03583fccf7e1)
 
 ![output_biorxiv_pubmed](https://github.com/dzyla/40years_of_cryoem/assets/20625527/f3122c1a-0f5f-421c-8bf0-b50f9e78896c)
